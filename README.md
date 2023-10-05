@@ -5,4 +5,4 @@ This project is a visually appealing landing page designed to showcase a selecti
 
 ## Website Preview:
 
-You can preview the website at [https://surgery.on.fleek.co/](https://burgers.on.fleek.co/)
+You can preview the website at [https://burgers.on.fleek.co/](https://burgers.on.fleek.co/)
